@@ -5,6 +5,8 @@ Taken from https://dev.to/
 
 Created and designed by https://dev.to/tiamatt
 
+Original repo: https://github.com/Tiamatt/Mastering-AWS-CloudFormation.git
+
 Part 1: https://dev.to/tiamatt/hands-on-aws-cloudformation-part-1-it-all-starts-here-5153
 
 Part 2: https://dev.to/tiamatt/hands-on-aws-cloudformation-part-2-into-to-intrinsic-functions-4kj2
